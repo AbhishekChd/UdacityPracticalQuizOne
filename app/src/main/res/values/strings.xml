@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">UdacityPracticalQuizOne</string>
+
+    <!-- Toolbar app title-->
+    <string name="main_toolbar_title">Udacity Quiz</string>
+    <!--
+        Main Activity
+    -->
+    <!-- Edit Text User Name Hint-->
+    <string name="et_user_name_hint">User Name</string>
+
+    <!-- Edit Text Email Hint-->
+    <string name="et_email_hint">Email</string>
+
+    <!-- Edit Text About you Hint-->
+    <string name="et_write_about_yourself_hint">Write about yourself</string>
+
+    <!-- Button title -->
+    <string name="button_next">next</string>
+
+
+    <!--
+        Details Activity
+    -->
+    <!-- TextView Demo Name -->
+    <string name="demo_name">DemoUserName</string>
+
+    <!-- TextView Demo Email -->
+    <string name="demo_email">DemoEmail</string>
+
+    <!-- TextView Demo About you -->
+    <string name="demo_about">This is the demo description and will replace the original one.</string>
+
+    <!-- Menu Bar details text -->
+    <string name="action_details">Details</string>
+
+    <!--
+    MainActivity Bundle keys
+    -->
+    <!-- Key name -->
+    <string name="key_name" translatable="false">name</string>
+
+    <!--Key Email-->
+    <string name="key_email" translatable="false">email</string>
+
+    <!--Key About you-->
+    <string name="key_about">about</string>
+</resources>
